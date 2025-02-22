@@ -1,1 +1,1 @@
-This is the site to ask my lovely girlfriend to be my valentine :)
+This is the simple application to ask my lovely girlfriend to be my valentine :)
